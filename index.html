@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Laurena Haroy – Comportementaliste animalier pour chien et chat</title>
+<meta name="description" content="Laurena Haroy, comportementaliste animalier pour chiens et chats depuis 2007. Informations en français, English, Deutsch, español.">
+<link rel="canonical" href="https://www.laurenaharoy.com/">
+<link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/">
+<link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/">
+<link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/">
+<link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/">
+<link rel="alternate" hreflang="x-default" href="https://www.laurenaharoy.com/">
+<link rel="icon" href="/favicon.png" type="image/png">
+<script>
+(function(){
+  var ok=['fr','en','de','es'], l=null;
+  try{l=localStorage.getItem('lang')}catch(e){}
+  if(ok.indexOf(l)<0){
+    var list=(navigator.languages&&navigator.languages.length)?navigator.languages:[navigator.language||'fr'];
+    for(var i=0;i<list.length;i++){var c=(list[i]||'').slice(0,2).toLowerCase();if(ok.indexOf(c)>=0){l=c;break}}
+  }
+  if(ok.indexOf(l)<0)l='en';
+  location.replace('/'+l+'/');
+})();
+</script>
+<style>body{font-family:system-ui,sans-serif;background:#F4EFE8;color:#3A2A1F;text-align:center;padding:60px 16px}a{color:#8E4A2D;margin:0 10px;font-size:1.1rem}</style>
+</head>
+<body>
+<p>Laurena Haroy – comportementaliste animalier</p>
+<p><a href="/fr/">Français</a><a href="/en/">English</a><a href="/de/">Deutsch</a><a href="/es/">Español</a></p>
+</body>
+</html>
