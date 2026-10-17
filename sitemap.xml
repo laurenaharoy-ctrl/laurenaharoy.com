@@ -90,11 +90,41 @@
   <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/zusammenleben/"/>
   <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/convivir-con-tu-animal/"/>
 </url>
+<url><loc>https://www.laurenaharoy.com/de/datenschutz/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/confidentialite/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/privacy-policy/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/datenschutz/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/privacidad/"/>
+</url>
+<url><loc>https://www.laurenaharoy.com/de/kontakt/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/contact/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/contact/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/kontakt/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/contacto/"/>
+</url>
+<url><loc>https://www.laurenaharoy.com/de/haeufige-fragen/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/questions-frequentes/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/faq/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/haeufige-fragen/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/preguntas-frecuentes/"/>
+</url>
+<url><loc>https://www.laurenaharoy.com/de/nuetzliche-links/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/liens-utiles/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/useful-links/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/nuetzliche-links/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/enlaces-utiles/"/>
+</url>
 <url><loc>https://www.laurenaharoy.com/de/buecher/</loc>
   <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/mes-livres/"/>
   <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/books/"/>
   <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/buecher/"/>
   <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/libros/"/>
+</url>
+<url><loc>https://www.laurenaharoy.com/de/impressum/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/mentions-legales/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/legal-notice/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/impressum/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/aviso-legal/"/>
 </url>
 <url><loc>https://www.laurenaharoy.com/de/naturheilkunde/heilerde/</loc>
   <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/naturopathie/argilotherapie/"/>
@@ -246,11 +276,41 @@
   <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/zusammenleben/"/>
   <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/convivir-con-tu-animal/"/>
 </url>
+<url><loc>https://www.laurenaharoy.com/en/privacy-policy/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/confidentialite/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/privacy-policy/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/datenschutz/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/privacidad/"/>
+</url>
+<url><loc>https://www.laurenaharoy.com/en/contact/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/contact/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/contact/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/kontakt/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/contacto/"/>
+</url>
+<url><loc>https://www.laurenaharoy.com/en/faq/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/questions-frequentes/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/faq/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/haeufige-fragen/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/preguntas-frecuentes/"/>
+</url>
+<url><loc>https://www.laurenaharoy.com/en/useful-links/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/liens-utiles/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/useful-links/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/nuetzliche-links/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/enlaces-utiles/"/>
+</url>
 <url><loc>https://www.laurenaharoy.com/en/books/</loc>
   <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/mes-livres/"/>
   <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/books/"/>
   <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/buecher/"/>
   <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/libros/"/>
+</url>
+<url><loc>https://www.laurenaharoy.com/en/legal-notice/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/mentions-legales/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/legal-notice/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/impressum/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/aviso-legal/"/>
 </url>
 <url><loc>https://www.laurenaharoy.com/en/naturopathy/clay-therapy/</loc>
   <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/naturopathie/argilotherapie/"/>
@@ -402,11 +462,41 @@
   <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/zusammenleben/"/>
   <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/convivir-con-tu-animal/"/>
 </url>
+<url><loc>https://www.laurenaharoy.com/es/privacidad/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/confidentialite/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/privacy-policy/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/datenschutz/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/privacidad/"/>
+</url>
+<url><loc>https://www.laurenaharoy.com/es/contacto/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/contact/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/contact/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/kontakt/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/contacto/"/>
+</url>
+<url><loc>https://www.laurenaharoy.com/es/preguntas-frecuentes/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/questions-frequentes/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/faq/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/haeufige-fragen/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/preguntas-frecuentes/"/>
+</url>
+<url><loc>https://www.laurenaharoy.com/es/enlaces-utiles/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/liens-utiles/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/useful-links/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/nuetzliche-links/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/enlaces-utiles/"/>
+</url>
 <url><loc>https://www.laurenaharoy.com/es/libros/</loc>
   <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/mes-livres/"/>
   <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/books/"/>
   <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/buecher/"/>
   <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/libros/"/>
+</url>
+<url><loc>https://www.laurenaharoy.com/es/aviso-legal/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/mentions-legales/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/legal-notice/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/impressum/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/aviso-legal/"/>
 </url>
 <url><loc>https://www.laurenaharoy.com/es/naturopatia/arcilla/</loc>
   <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/naturopathie/argilotherapie/"/>
@@ -563,15 +653,27 @@
 </url>
 <url><loc>https://www.laurenaharoy.com/fr/confidentialite/</loc>
   <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/confidentialite/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/privacy-policy/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/datenschutz/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/privacidad/"/>
 </url>
 <url><loc>https://www.laurenaharoy.com/fr/contact/</loc>
   <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/contact/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/contact/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/kontakt/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/contacto/"/>
 </url>
 <url><loc>https://www.laurenaharoy.com/fr/questions-frequentes/</loc>
   <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/questions-frequentes/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/faq/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/haeufige-fragen/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/preguntas-frecuentes/"/>
 </url>
 <url><loc>https://www.laurenaharoy.com/fr/liens-utiles/</loc>
   <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/liens-utiles/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/useful-links/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/nuetzliche-links/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/enlaces-utiles/"/>
 </url>
 <url><loc>https://www.laurenaharoy.com/fr/mes-livres/</loc>
   <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/mes-livres/"/>
@@ -581,6 +683,9 @@
 </url>
 <url><loc>https://www.laurenaharoy.com/fr/mentions-legales/</loc>
   <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/mentions-legales/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.laurenaharoy.com/en/legal-notice/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.laurenaharoy.com/de/impressum/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.laurenaharoy.com/es/aviso-legal/"/>
 </url>
 <url><loc>https://www.laurenaharoy.com/fr/naturopathie/argilotherapie/</loc>
   <xhtml:link rel="alternate" hreflang="fr" href="https://www.laurenaharoy.com/fr/naturopathie/argilotherapie/"/>
