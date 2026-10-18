@@ -359,3 +359,8 @@ main li{margin:.25rem 0}
 .notice .tick::before{content:"✔ ";color:var(--terracotta)}
 main h3 + p{margin-top:0}
 #fdb{scroll-margin-top:120px}
+
+.portrait{float:right;width:260px;max-width:42%;height:auto;margin:4px 0 16px 24px;border-radius:14px;box-shadow:0 6px 18px rgba(58,42,31,.18)}
+@media (max-width:640px){.portrait{float:none;display:block;width:100%;max-width:300px;margin:0 auto 20px}}
+p.center{clear:both}
+.page-illu{display:block;width:100%;height:auto}
