@@ -364,3 +364,9 @@ main h3 + p{margin-top:0}
 @media (max-width:640px){.portrait{float:none;display:block;width:100%;max-width:300px;margin:0 auto 20px}}
 p.center{clear:both}
 .page-illu{display:block;width:100%;height:auto}
+
+/* Vidéos de présentation des applis */
+.videos{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:22px;max-width:900px;margin:24px auto 32px}
+.videos figure{margin:0}
+.videos video{display:block;width:100%;height:auto;aspect-ratio:16/9;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,.12);background:var(--cream-deep)}
+.videos figcaption{text-align:center;font-size:.9rem;color:var(--muted);margin-top:8px}
