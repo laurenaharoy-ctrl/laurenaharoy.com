@@ -377,3 +377,7 @@ p.center{clear:both}
 .app-poster>img{display:block;width:100%;height:auto;border-radius:8px;box-shadow:0 2px 10px rgba(0,0,0,.12)}
 .app-poster .actions{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}
 .app-poster p{margin:0}
+.poster-link{display:block;border-radius:8px;transition:transform .15s}
+.poster-link:hover{transform:translateY(-2px)}
+.ios-note{text-align:center;font-size:.9rem;color:var(--muted);font-style:italic}
+@media (max-width:700px),(hover:none) and (pointer:coarse){.app-poster .qrbox{display:none}}
